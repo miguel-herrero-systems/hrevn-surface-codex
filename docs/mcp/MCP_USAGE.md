@@ -8,7 +8,7 @@ through skill guidance plus the local helper script.
 ## Companion server
 
 Use the public MCP server repo:
-- `https://github.com/ai-human-andalusia/hrevn-mcp-server`
+- `https://github.com/miguel-herrero-systems/hrevn-mcp-server`
 
 It exposes:
 - `baseline_check`
@@ -22,7 +22,7 @@ All four tools call the same managed backend:
 ## Install the MCP server
 
 ```bash
-git clone https://github.com/ai-human-andalusia/hrevn-mcp-server
+git clone https://github.com/miguel-herrero-systems/hrevn-mcp-server
 cd hrevn-mcp-server
 pip install -e .
 ```

@@ -2,8 +2,8 @@
 
 ## Public repos
 
-- `https://github.com/ai-human-andalusia/hrevn-surface-codex`
-- `https://github.com/ai-human-andalusia/hrevn-mcp-server`
+- `https://github.com/miguel-herrero-systems/hrevn-surface-codex`
+- `https://github.com/miguel-herrero-systems/hrevn-mcp-server`
 
 ## Live backend
 
@@ -62,7 +62,7 @@ Expected result:
 If you want the repo checkout instead, use:
 
 ```bash
-git clone https://github.com/ai-human-andalusia/hrevn-surface-codex
+git clone https://github.com/miguel-herrero-systems/hrevn-surface-codex
 cd hrevn-surface-codex
 pipx install .
 ```
@@ -70,12 +70,12 @@ pipx install .
 ## Optional MCP path
 
 If you want to test MCP in parallel, use:
-- `https://github.com/ai-human-andalusia/hrevn-mcp-server`
+- `https://github.com/miguel-herrero-systems/hrevn-mcp-server`
 
 Then:
 
 ```bash
-git clone https://github.com/ai-human-andalusia/hrevn-mcp-server
+git clone https://github.com/miguel-herrero-systems/hrevn-mcp-server
 cd hrevn-mcp-server
 pip install -e .
 ```

@@ -64,7 +64,7 @@ hrevn-codex baseline
 If you want the repo checkout instead, use:
 
 ```bash
-git clone https://github.com/ai-human-andalusia/hrevn-surface-codex
+git clone https://github.com/miguel-herrero-systems/hrevn-surface-codex
 cd hrevn-surface-codex
 pipx install .
 ```
@@ -109,7 +109,7 @@ working Codex test.
 If you want Codex to discover HREVN as MCP tools instead of only through skills
 plus the helper script, use:
 
-- `https://github.com/ai-human-andalusia/hrevn-mcp-server`
+- `https://github.com/miguel-herrero-systems/hrevn-mcp-server`
 
 See:
 - `docs/mcp/MCP_USAGE.md`
